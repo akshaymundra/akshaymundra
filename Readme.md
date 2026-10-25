@@ -42,7 +42,7 @@ Backend engineer with 2+ years of experience building scalable, event-driven dis
 
 ### 🔍 Featured Projects
 
-#### [PageLens](https://github.com/akshaymundra) (AI Web Page Assistant)
+#### [PageLens](https://github.com/akshaymundra/PageLens) (AI Web Page Assistant)
 *TypeScript, Vite, Chrome Extension MV3, Shadow DOM, Hybrid RAG, BM25, Vector Embeddings, Ollama / Claude / OpenAI*
 - Manifest V3 extension providing in-page streaming Q&A against live web documents.
 - Features hybrid retrieval: merges sparse BM25 search with dense local vector embeddings via Reciprocal Rank Fusion (RRF) to optimize LLM context window tokens and latency.
